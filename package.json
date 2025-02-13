@@ -1,0 +1,15 @@
+{
+  "name": "impressingcrush",
+  "version": "1.0.0",
+  "description": "link mobile.js instead of script.js in index.html to work in mobile.",
+  "main": "mobile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
