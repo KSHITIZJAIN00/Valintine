@@ -24,6 +24,3 @@ app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
 
-module.exports = (req, res) => {
-  res.status(200).send('Hello, Vercel!');
-};
